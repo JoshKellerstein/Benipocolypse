@@ -1,0 +1,12 @@
+{
+    "name": "Machtinger Revolution",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["*://tchat.edsby.com/*"],
+            "js": ["inject.js"]
+        }
+    ],
+    "host_permissions": ["<all_urls>"]
+}
