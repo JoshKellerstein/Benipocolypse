@@ -1,4 +1,4 @@
-# Machtinger Revolution
+# Benipocolypse
 Turns everybody on Edsby into Rabbi Machtinger!
 
 ## How to Install
